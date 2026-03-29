@@ -1,5 +1,5 @@
 # 📘 SQL Resume Project – Online Bookstore Analysis
-
+ 
 SQL project completed as part of hands-on learning and portfolio building for Data Analyst roles.
 
 ---
